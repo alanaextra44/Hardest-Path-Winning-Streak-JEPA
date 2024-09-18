@@ -1,6 +1,6 @@
-# Tennis Match Outcome Prediction
+# Tennis Match Win Streak Analysis
 
-This project aims to predict the outcomes of tennis matches using machine learning and deep learning techniques. The model incorporates advanced feature engineering, data preprocessing, and a combination of neural networks and ensemble models to achieve accurate predictions.
+This project aims to analyze the most challenging path to a tennis historical winning-streak using machine learning and deep learning techniques. The model incorporates advanced feature engineering, data preprocessing, and a combination of neural networks and ensemble models to achieve accurate analysis of the level of competition.
 
 ## Table of Contents
 
