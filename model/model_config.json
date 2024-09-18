@@ -1,0 +1,1 @@
+{"categorical_dims": [73, 14, 287, 8, 5, 8, 10, 10, 45, 46, 277, 2, 3], "numerical_dim": 11, "embedding_dim": 113, "hidden_dim": 291, "dropout_rate": 0.15142691537170513, "learning_rate": 0.003265654625938598}

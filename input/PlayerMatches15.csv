@@ -1,0 +1,34 @@
+date,tournament,level,bestOf,surface,indoor,speed,round,winner_name,winner_seed,winner_country_name,winner_country_id,winner_rank,winner_eloRatingDelta,winner_eloRating,loser_name,loser_seed,loser_country_name,loser_country_id,loser_rank,loser_eloRatingDelta,loser_eloRating,score,loser_entry
+2008-07-28,Cincinnati Masters,M,3,H,false,80,SF,Novak Djokovic,3,Serbia,SRB,3,16,2274,Rafael Nadal,2,Spain,ESP,2,-17,2456,6-1 7-5,
+2008-07-28,Cincinnati Masters,M,3,H,false,80,QF,Rafael Nadal,2,Spain,ESP,2,1,2455,Nicolas Lapentti,,Ecuador,ECU,89,-1,1897,7-6(3) 6-1,
+2008-07-28,Cincinnati Masters,M,3,H,false,80,R16,Rafael Nadal,2,Spain,ESP,2,2,2453,Tommy Haas,,Germany,GER,42,-2,2066,6-4 7-6(0),
+2008-07-28,Cincinnati Masters,M,3,H,false,80,R32,Rafael Nadal,2,Spain,ESP,2,,2453,Florent Serra,,France,FRA,84,-1,1849,6-0 6-1,
+2008-07-21,Canada Masters,M,3,H,false,61,F,Rafael Nadal,2,Spain,ESP,2,3,2450,Nicolas Kiefer,,Germany,GER,37,-3,2090,6-3 6-2,
+2008-07-21,Canada Masters,M,3,H,false,61,SF,Rafael Nadal,2,Spain,ESP,2,4,2446,Andy Murray,8,United Kingdom,GBR,9,-4,2175,7-6(2) 6-3,
+2008-07-21,Canada Masters,M,3,H,false,61,QF,Rafael Nadal,2,Spain,ESP,2,2,2444,Richard Gasquet,10,France,FRA,12,-2,2072,6-7(12) 6-2 6-1,
+2008-07-21,Canada Masters,M,3,H,false,61,R16,Rafael Nadal,2,Spain,ESP,2,2,2442,Igor Andreev,,Russian Federation,RUS,26,-2,2027,6-2 7-6(1),
+2008-07-21,Canada Masters,M,3,H,false,61,R32,Rafael Nadal,2,Spain,ESP,2,,2442,Jesse Levine,,Canada,CAN,123,,1736,6-4 6-2,Q
+2008-06-23,Wimbledon,G,5,G,false,79,F,Rafael Nadal,2,Spain,ESP,2,16,2426,Roger Federer,1,Switzerland,SUI,1,-16,2423,6-4 6-4 6-7(5) 6-7(8) 9-7,
+2008-06-23,Wimbledon,G,5,G,false,79,SF,Rafael Nadal,2,Spain,ESP,2,1,2425,Rainer Schuettler,,Germany,GER,94,-2,1882,6-1 7-6(3) 6-4,
+2008-06-23,Wimbledon,G,5,G,false,79,QF,Rafael Nadal,2,Spain,ESP,2,5,2420,Andy Murray,11,United Kingdom,GBR,11,-5,2153,6-3 6-2 6-4,
+2008-06-23,Wimbledon,G,5,G,false,79,R16,Rafael Nadal,2,Spain,ESP,2,3,2417,Mikhail Youzhny,16,Russian Federation,RUS,17,-3,2053,6-3 6-3 6-1,
+2008-06-23,Wimbledon,G,5,G,false,79,R32,Rafael Nadal,2,Spain,ESP,2,3,2414,Nicolas Kiefer,30,Germany,GER,32,-3,2046,7-6(3) 6-2 6-3,
+2008-06-23,Wimbledon,G,5,G,false,79,R64,Rafael Nadal,2,Spain,ESP,2,1,2413,Ernests Gulbis,,Latvia,LAT,48,-1,1932,5-7 6-2 7-6(2) 6-3,
+2008-06-23,Wimbledon,G,5,G,false,79,R128,Rafael Nadal,2,Spain,ESP,2,1,2412,Andreas Beck,,Germany,GER,122,-1,1712,6-4 6-4 7-6(0),Q
+2008-06-09,Queen's Club,B,3,G,false,78,F,Rafael Nadal,1,Spain,ESP,2,7,2405,Novak Djokovic,2,Serbia,SRB,3,-7,2299,7-6(6) 7-5,
+2008-06-09,Queen's Club,B,3,G,false,78,SF,Rafael Nadal,1,Spain,ESP,2,5,2400,Andy Roddick,3,United States,USA,6,-5,2233,7-5 6-4,
+2008-06-09,Queen's Club,B,3,G,false,78,QF,Rafael Nadal,1,Spain,ESP,2,1,2399,Ivo Karlovic,8,Croatia,CRO,22,-2,1997,6-7(5) 7-6(5) 7-6(4),
+2008-06-09,Queen's Club,B,3,G,false,78,R16,Rafael Nadal,1,Spain,ESP,2,1,2398,Kei Nishikori,,Japan,JPN,113,-1,1808,6-4 3-6 6-3,
+2008-06-09,Queen's Club,B,3,G,false,78,R32,Rafael Nadal,1,Spain,ESP,2,,2398,Jonas Bjorkman,,Sweden,SWE,102,-1,1858,6-2 6-2,WC
+2008-05-25,Roland Garros,G,5,C,false,41,F,Rafael Nadal,2,Spain,ESP,2,18,2380,Roger Federer,1,Switzerland,SUI,1,-18,2417,6-1 6-3 6-0,
+2008-05-25,Roland Garros,G,5,C,false,41,SF,Rafael Nadal,2,Spain,ESP,2,12,2368,Novak Djokovic,3,Serbia,SRB,3,-12,2299,6-4 6-2 7-6(3),
+2008-05-25,Roland Garros,G,5,C,false,41,QF,Rafael Nadal,2,Spain,ESP,2,4,2364,Nicolas Almagro,19,Spain,ESP,20,-4,2072,6-1 6-1 6-1,
+2008-05-25,Roland Garros,G,5,C,false,41,R16,Rafael Nadal,2,Spain,ESP,2,3,2361,Fernando Verdasco,22,Spain,ESP,23,-4,2036,6-1 6-0 6-2,
+2008-05-25,Roland Garros,G,5,C,false,41,R32,Rafael Nadal,2,Spain,ESP,2,3,2358,Jarkko Nieminen,26,Finland,FIN,26,-2,1944,6-1 6-3 6-1,
+2008-05-25,Roland Garros,G,5,C,false,41,R64,Rafael Nadal,2,Spain,ESP,2,,2358,Nicolas Devilder,,France,FRA,148,-2,1774,6-4 6-0 6-1,Q
+2008-05-25,Roland Garros,G,5,C,false,41,R128,Rafael Nadal,2,Spain,ESP,2,1,2357,Thomaz Bellucci,,Brazil,BRA,76,-1,1691,7-5 6-3 6-1,Q
+2008-05-11,Hamburg Masters,M,3,C,false,29,F,Rafael Nadal,2,Spain,ESP,2,15,2342,Roger Federer,1,Switzerland,SUI,1,-15,2417,7-5 6-7(3) 6-3,
+2008-05-11,Hamburg Masters,M,3,C,false,29,SF,Rafael Nadal,2,Spain,ESP,2,10,2332,Novak Djokovic,3,Serbia,SRB,3,-10,2297,7-5 2-6 6-2,
+2008-05-11,Hamburg Masters,M,3,C,false,29,QF,Rafael Nadal,2,Spain,ESP,2,2,2330,Carlos Moya,11,Spain,ESP,12,-3,1995,6-1 6-3,
+2008-05-11,Hamburg Masters,M,3,C,false,29,R16,Rafael Nadal,2,Spain,ESP,2,5,2325,Andy Murray,15,United Kingdom,GBR,14,-5,2128,6-3 6-2,
+2008-05-11,Hamburg Masters,M,3,C,false,29,R32,Rafael Nadal,2,Spain,ESP,2,1,2324,Potito Starace,,Italy,ITA,47,-2,1870,6-4 7-6(6),

@@ -1,0 +1,36 @@
+date,tournament,level,bestOf,surface,indoor,speed,round,winner_name,winner_seed,winner_country_name,winner_country_id,winner_rank,winner_eloRatingDelta,winner_eloRating,loser_name,loser_country_name,loser_country_id,loser_rank,loser_eloRatingDelta,loser_eloRating,score,loser_seed,loser_entry
+1995-06-19,St. Poelten,B,3,C,false,44,F,Thomas Muster,1,Austria,AUT,4,2,2276,Bohdan Ulihrach,Czech Republic,CZE,68,-2,1843,6-3 3-6 6-1,,
+1995-06-19,St. Poelten,B,3,C,false,44,SF,Thomas Muster,1,Austria,AUT,4,1,2275,Stefano Pescosolido,Italy,ITA,170,-2,1873,6-0 3-6 6-4,,
+1995-06-19,St. Poelten,B,3,C,false,44,QF,Thomas Muster,1,Austria,AUT,4,1,2274,Rodolphe Gilbert,France,FRA,139,-1,1736,6-2 6-2,,
+1995-06-19,St. Poelten,B,3,C,false,44,R16,Thomas Muster,1,Austria,AUT,4,1,2273,Alex Lopez Moron,Spain,ESP,105,-2,1820,6-2 6-2,,
+1995-06-19,St. Poelten,B,3,C,false,44,R32,Thomas Muster,1,Austria,AUT,4,1,2272,Filip Dewulf,Belgium,BEL,140,-1,1768,4-6 7-6(7) 6-3,,
+1995-05-29,Roland Garros,G,5,C,false,24,F,Thomas Muster,5,Austria,AUT,5,16,2256,Michael Chang,United States,USA,6,-16,2251,7-5 6-2 6-4,6,
+1995-05-29,Roland Garros,G,5,C,false,24,SF,Thomas Muster,5,Austria,AUT,5,11,2245,Yevgeny Kafelnikov,Russian Federation,RUS,9,-11,2159,6-4 6-0 6-4,9,
+1995-05-29,Roland Garros,G,5,C,false,24,QF,Thomas Muster,5,Austria,AUT,5,4,2241,Albert Costa,Spain,ESP,36,-5,1947,6-2 3-6 6-7(6) 7-5 6-2,,
+1995-05-29,Roland Garros,G,5,C,false,24,R16,Thomas Muster,5,Austria,AUT,5,9,2232,Andrei Medvedev,Ukraine,UKR,18,-10,2125,6-3 6-3 6-0,,WC
+1995-05-29,Roland Garros,G,5,C,false,24,R32,Thomas Muster,5,Austria,AUT,5,4,2228,Carlos Costa,Spain,ESP,69,-5,1960,6-3 7-5 6-2,,
+1995-05-29,Roland Garros,G,5,C,false,24,R64,Thomas Muster,5,Austria,AUT,5,5,2223,Cedric Pioline,France,FRA,58,-4,1959,6-1 6-3 6-3,,
+1995-05-29,Roland Garros,G,5,C,false,24,R128,Thomas Muster,5,Austria,AUT,5,1,2222,Gerard Solves,France,FRA,191,-3,1690,3-6 6-4 6-2 6-1,,Q
+1995-05-15,Rome Masters,M,5,C,false,31,F,Thomas Muster,7,Austria,AUT,10,12,2210,Sergi Bruguera,Spain,ESP,7,-12,2162,3-6 7-6(5) 6-2 6-3,8,
+1995-05-15,Rome Masters,M,3,C,false,31,SF,Thomas Muster,7,Austria,AUT,10,10,2200,Wayne Ferreira,South Africa,RSA,6,-10,2166,3-6 6-1 6-3,4,
+1995-05-15,Rome Masters,M,3,C,false,31,QF,Thomas Muster,7,Austria,AUT,10,11,2189,Michael Chang,United States,USA,5,-12,2228,6-3 6-2,2,
+1995-05-15,Rome Masters,M,3,C,false,31,R16,Thomas Muster,7,Austria,AUT,10,2,2187,Bohdan Ulihrach,Czech Republic,CZE,84,-3,1773,6-2 6-2,,Q
+1995-05-15,Rome Masters,M,3,C,false,31,R32,Thomas Muster,7,Austria,AUT,10,4,2183,Jan Siemerink,Netherlands,NED,52,-5,1951,3-6 6-4 6-3,,
+1995-05-15,Rome Masters,M,3,C,false,31,R64,Thomas Muster,7,Austria,AUT,10,6,2177,Paul Haarhuis,Netherlands,NED,30,-6,2023,6-4 6-4,,
+1995-04-24,Monte Carlo Masters,M,5,C,false,16,F,Thomas Muster,9,Austria,AUT,13,17,2160,Boris Becker,Germany,GER,3,-17,2246,4-6 5-7 6-1 7-6(6) 6-0,2,
+1995-04-24,Monte Carlo Masters,M,3,C,false,16,SF,Thomas Muster,9,Austria,AUT,13,7,2153,Andrea Gaudenzi,Italy,ITA,20,-8,2029,6-3 7-6(5),14,
+1995-04-24,Monte Carlo Masters,M,3,C,false,16,QF,Thomas Muster,9,Austria,AUT,13,7,2146,David Wheaton,United States,USA,35,-7,2023,6-4 6-4,,
+1995-04-24,Monte Carlo Masters,M,3,C,false,16,R16,Thomas Muster,9,Austria,AUT,13,7,2139,Alberto Berasategui,Spain,ESP,8,-7,2029,7-6(6) 6-2,7,
+1995-04-24,Monte Carlo Masters,M,3,C,false,16,R32,Thomas Muster,9,Austria,AUT,13,5,2134,Bernd Karbacher,Germany,GER,22,-6,1946,6-2 6-2,,
+1995-04-24,Monte Carlo Masters,M,3,C,false,16,R64,Thomas Muster,9,Austria,AUT,13,6,2128,Guy Forget,France,FRA,27,-6,1992,6-2 6-2,,
+1995-04-10,Barcelona,A,5,C,false,26,F,Thomas Muster,9,Austria,AUT,17,15,2113,Magnus Larsson,Sweden,SWE,12,-15,2203,6-2 6-1 6-4,7,
+1995-04-10,Barcelona,A,3,C,false,26,SF,Thomas Muster,9,Austria,AUT,17,12,2101,Yevgeny Kafelnikov,Russian Federation,RUS,5,-12,2181,6-3 6-3,3,
+1995-04-10,Barcelona,A,3,C,false,26,QF,Thomas Muster,9,Austria,AUT,17,6,2095,Carlos Costa,Spain,ESP,62,-6,1961,6-3 3-6 7-5,,
+1995-04-10,Barcelona,A,3,C,false,26,R16,Thomas Muster,9,Austria,AUT,17,4,2091,Javier Sanchez,Spain,ESP,34,-5,1874,7-6(5) 6-4,,
+1995-04-10,Barcelona,A,3,C,false,26,R32,Thomas Muster,9,Austria,AUT,17,3,2088,Andrei Cherkasov,Russian Federation,RUS,280,-5,1818,6-3 6-2,,WC
+1995-04-10,Barcelona,A,3,C,false,26,R64,Thomas Muster,9,Austria,AUT,17,3,2085,Jordi Burillo,Spain,ESP,127,-5,1802,4-6 7-6(2) 6-2,,WC
+1995-04-03,Estoril,B,3,C,false,20,F,Thomas Muster,3,Austria,AUT,17,5,2080,Albert Costa,Spain,ESP,58,-6,1884,6-4 6-2,,
+1995-04-03,Estoril,B,3,C,false,20,SF,Thomas Muster,3,Austria,AUT,17,5,2075,Emilio Sanchez,Spain,ESP,102,-6,1866,6-2 6-4,,
+1995-04-03,Estoril,B,3,C,false,20,QF,Thomas Muster,3,Austria,AUT,17,3,2072,Javier Sanchez,Spain,ESP,39,-5,1854,4-6 7-6(3) 6-4,,
+1995-04-03,Estoril,B,3,C,false,20,R16,Thomas Muster,3,Austria,AUT,17,4,2068,Franco Davin,Argentina,ARG,81,-5,1824,7-5 6-1,,
+1995-04-03,Estoril,B,3,C,false,20,R32,Thomas Muster,3,Austria,AUT,17,3,2065,Oscar Martinez,Spain,ESP,70,-5,1824,6-4 6-1,,

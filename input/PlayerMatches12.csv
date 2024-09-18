@@ -1,0 +1,39 @@
+date,tournament,level,bestOf,surface,indoor,round,winner_name,winner_seed,winner_country_name,winner_country_id,winner_rank,winner_eloRatingDelta,winner_eloRating,loser_name,loser_seed,loser_country_name,loser_country_id,loser_rank,loser_eloRatingDelta,loser_eloRating,score
+1974-06-17,Nottingham,M,3,G,false,QF,Stan Smith,5,United States,USA,7,14,2192,Jimmy Connors,4,United States,USA,2,-14,2315,4-6 6-4 6-0
+1974-06-17,Nottingham,M,3,G,false,R16,Jimmy Connors,4,United States,USA,2,3,2312,Eddie Dibbs,,United States,USA,16,-4,2044,6-1 6-3
+1974-06-17,Nottingham,M,3,G,false,R32,Jimmy Connors,4,United States,USA,2,2,2310,Jurgen Fassbender,,Germany,GER,33,-2,1935,6-3 7-5
+1974-06-17,Nottingham,M,3,G,false,R64,Jimmy Connors,4,United States,USA,2,2,2308,Ove Nils Bengtson,,Sweden,SWE,70,-2,1848,6-1 6-4
+1974-06-03,Manchester,B,3,G,false,F,Jimmy Connors,,United States,USA,2,,2308,Mike Collins,,United Kingdom,GBR,,-2,1734,13-11 6-2
+1974-06-03,Manchester,B,3,G,false,SF,Jimmy Connors,,United States,USA,2,1,2307,Syd Ball,,Australia,AUS,63,-2,1851,13-11 6-4
+1974-06-03,Manchester,B,3,G,false,QF,Jimmy Connors,,United States,USA,2,1,2306,Rayno Seegers,,South Africa,RSA,285,-2,1645,6-4 6-2
+1974-06-03,Manchester,B,3,G,false,R16,Jimmy Connors,,United States,USA,2,,2306,Reginald Bennett,,United Kingdom,GBR,,-2,1581,6-1 6-3
+1974-06-03,Manchester,B,3,G,false,R32,Jimmy Connors,,United States,USA,2,,2306,Pieter Burki,,Netherlands,NED,,-2,1576,6-1 6-1
+1974-06-03,Manchester,B,3,G,false,R64,Jimmy Connors,,United States,USA,2,,2306,Mark Wilson,,United Kingdom,GBR,,-1,1500,6-1 6-0
+1974-04-07,Washington,B,3,H,true,QF,Jimmy Connors,,United States,USA,4,,2314,Ian Crookenden,,New Zealand,NZL,169,-1,1763,6-7 6-1 6-4
+1974-03-27,Tempe,B,3,H,false,F,Jimmy Connors,1,United States,USA,4,2,2312,Vijay Amritraj,,India,IND,29,-2,1922,6-1 6-2
+1974-03-27,Tempe,B,3,H,false,SF,Jimmy Connors,1,United States,USA,4,2,2310,Jurgen Fassbender,4,Germany,GER,41,-2,1926,6-4 5-7 7-5
+1974-03-27,Tempe,B,3,H,false,QF,Jimmy Connors,1,United States,USA,4,1,2309,Ian Fletcher,5,Australia,AUS,81,-2,1869,6-4 6-3
+1974-03-27,Tempe,B,3,H,false,R16,Jimmy Connors,1,United States,USA,4,1,2308,Jairo Velasco,,Spain,ESP,239,-1,1806,6-2 6-0
+1974-03-27,Tempe,B,3,H,false,R32,Jimmy Connors,1,United States,USA,4,1,2307,Frantisek Pala,,Czech Republic,CZE,109,-1,1731,6-3 6-2
+1974-03-24,Salt Lake City,B,3,H,true,F,Jimmy Connors,,United States,USA,4,1,2306,Vitas Gerulaitis,,United States,USA,135,-2,1867,4-6 7-6 6-3
+1974-03-24,Salt Lake City,B,3,H,true,SF,Jimmy Connors,,United States,USA,4,1,2305,Dick R Bohrnstedt,,United States,USA,155,-1,1819,6-2 6-2
+1974-03-24,Salt Lake City,B,3,H,true,QF,Jimmy Connors,,United States,USA,4,1,2304,Jairo Velasco,,Spain,ESP,239,-2,1805,6-3 6-2
+1974-03-24,Salt Lake City,B,3,H,true,R16,Jimmy Connors,,United States,USA,4,1,2303,Christian Kuhnke,,Germany,GER,,-1,1847,6-2 6-3
+1974-03-10,Hampton,B,3,P,true,F,Jimmy Connors,,United States,USA,4,11,2292,Ilie Nastase,,Romania,ROU,1,-11,2309,6-4 6-4
+1974-03-10,Hampton,B,3,P,true,SF,Jimmy Connors,,United States,USA,4,1,2291,Balazs Taroczy,,Hungary,HUN,189,-1,1795,6-3 6-4
+1974-03-10,Hampton,B,3,P,true,QF,Jimmy Connors,,United States,USA,4,1,2290,Hans Kary,,Austria,AUT,86,-2,1810,6-3 6-4
+1974-03-10,Hampton,B,3,P,true,R16,Jimmy Connors,,United States,USA,4,1,2289,Mike Estep,,United States,USA,85,-2,1833,6-2 6-2
+1974-03-10,Hampton,B,3,P,true,R32,Jimmy Connors,,United States,USA,4,1,2288,Anand Amritraj,,India,IND,110,-2,1621,6-1 6-2
+1974-02-24,Salisbury,B,5,P,true,F,Jimmy Connors,2,United States,USA,3,1,2287,Frew Mcmillan,,South Africa,RSA,78,-2,1844,6-4 7-5 6-3
+1974-02-24,Salisbury,B,5,P,true,SF,Jimmy Connors,2,United States,USA,3,4,2283,Sandy Mayer,7,United States,USA,134,-3,2006,6-1 6-1 6-0
+1974-02-24,Salisbury,B,3,P,true,QF,Jimmy Connors,2,United States,USA,3,1,2282,Ian Fletcher,,Australia,AUS,87,-2,1869,6-3 6-1
+1974-02-24,Salisbury,B,3,P,true,R16,Jimmy Connors,2,United States,USA,3,2,2280,Andrew Pattison,,United States,USA,53,-2,1946,6-4 6-2
+1974-02-24,Salisbury,B,3,P,true,R32,Jimmy Connors,2,United States,USA,3,,2280,Tony Bardsley,,Canada,CAN,213,-2,1595,6-1 6-2
+1974-02-17,Birmingham,B,3,P,true,F,Jimmy Connors,,United States,USA,3,4,2276,Sandy Mayer,,United States,USA,134,-4,1987,7-5 6-3
+1974-02-17,Birmingham,B,3,P,true,SF,Jimmy Connors,,United States,USA,3,1,2275,Charles Owens,,United States,USA,151,-1,1805,6-2 6-2
+1974-02-17,Birmingham,B,3,P,true,QF,Jimmy Connors,,United States,USA,3,,2275,Belus Prajoux,,Chile,CHI,207,-1,1669,6-3 6-1
+1974-02-17,Birmingham,B,3,P,true,R16,Jimmy Connors,,United States,USA,3,1,2274,Nicholas Kalogeropoulos,,Greece,GRE,113,-2,1708,6-4 6-3
+1974-02-10,Little Rock,B,3,P,true,F,Jimmy Connors,,United States,USA,3,3,2271,Karl Meiler,,Germany,GER,32,-4,1989,6-2 6-1
+1974-02-10,Little Rock,B,3,P,true,SF,Jimmy Connors,,United States,USA,3,2,2269,Vitas Gerulaitis,,United States,USA,131,-2,1835,6-2 6-1
+1974-02-10,Little Rock,B,3,P,true,QF,Jimmy Connors,,United States,USA,3,1,2268,Ian Fletcher,,Australia,AUS,87,-1,1836,6-1 7-5
+1974-02-10,Little Rock,B,3,P,true,R16,Jimmy Connors,,United States,USA,3,1,2267,Robert Kreiss,,United States,USA,197,-2,1706,7-5 7-6
